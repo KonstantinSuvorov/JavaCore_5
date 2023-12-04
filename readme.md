@@ -6,7 +6,7 @@
    
 [backup code](src/main/java/ru/geekbrains/core/lesson5/BackupCreator.java)
 
-3. Доработайте класс Tree и метод print который мы разработали на семинаре.
+2. Доработайте класс Tree и метод print который мы разработали на семинаре.
    
 [print tree code](src/main/java/ru/geekbrains/core/lesson5/Tree.java)
 
