@@ -1,6 +1,6 @@
 # Урок 5. Тонкости работы
 
-[folder with code](src\main\java\ru\geekbrains\core\lesson5\)
+[folder with code](src\main\java\ru\geekbrains\core\lesson5\).
 
 1. Написать функцию, создающую резервную копию всех файлов в директории во вновь созданную папку ./backup
 [backup code](src\main\java\ru\geekbrains\core\lesson5\BackupCreator.java)
